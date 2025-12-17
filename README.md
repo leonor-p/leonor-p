@@ -1,16 +1,16 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Leonor+Pinto!+%F0%9F%91%8B;Master's+Student+@+FEUP;Software+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FA8072&center=true&vCenter=true&width=700&lines=Hi,+I'm+Leonor+Pinto!+%F0%9F%91%8B;Master's+Student+@+FEUP;Software+Engineering+Enthusiast" alt="Typing SVG" />
 
   <p>
      Reviewing code, optimizing algorithms, and building software solutions.
   </p>
   
   <a href="mailto:leonortpinto.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-leonortpinto.work%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-leonortpinto.work%40gmail.com-FA8072?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leonor-pinto29">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FA8072?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
@@ -52,11 +52,11 @@ My background is rooted in Computer Engineering (BSc from UTAD), where I develop
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=FA8072" alt="Top Langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=60&section=footer"/>
 </div>
