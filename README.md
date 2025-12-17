@@ -20,8 +20,10 @@
 ## 👩‍💻 About Me
 
 I'm currently pursuing a **Master’s in Software Engineering (MESW)** at the **Faculty of Engineering, University of Porto (FEUP)**.
+
+My background is rooted in **Computer Engineering (BSc from UTAD, 2022–2025)**.
 <br>
-My background is rooted in Computer Engineering (BSc from UTAD), where I developed a strong foundation in core systems and algorithmic problem-solving.
+During my studies, I specialized in Web Development (.NET, JavaScript) and Software Engineering, while building a robust foundation in Distributed Systems, Networks, and Databases.
 
 ---
 
