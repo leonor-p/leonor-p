@@ -49,14 +49,13 @@ My background is rooted in Computer Engineering (BSc from UTAD), where I develop
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonor-p&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues,prs" alt="Leonor's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
