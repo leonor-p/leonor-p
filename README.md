@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FA8072&center=true&vCenter=true&width=700&lines=Hi,+I'm+Leonor+Pinto!+%F0%9F%91%8B;MSc+Student+@+FEUP;Software+Engineering+Enthusiast" alt="Typing SVG" />
 
   <p>
-     Reviewing code, optimizing algorithms, and building software solutions.
+      Reviewing code, optimizing algorithms, and building software solutions.
   </p>
   
   <a href="mailto:leonortpinto.work@gmail.com">
@@ -61,13 +61,7 @@ During my studies, I specialized in Web Development (.NET, JavaScript) and Softw
 ---
 
 ## 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=FA8072" alt="Top Langs" />
-</div>
-
 <br>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=60&section=footer"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=FA8072" alt="Top Langs" />
 </div>
