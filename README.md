@@ -83,7 +83,7 @@ I enjoy working across the full stack, from designing backend architectures and 
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=FA8072" alt="Top Langs" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonor-p&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=FA8072&count_private=true" alt="Top Langs" />
 </div>
 
 <div align="center">
