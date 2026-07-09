@@ -87,7 +87,7 @@ I enjoy working across the full stack, from designing backend architectures and 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonor-p&theme=radical" alt="Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonor-p&theme=radical&cache=false" alt="Profile Summary" />
 </div>
 
 ---
