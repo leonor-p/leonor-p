@@ -79,7 +79,7 @@ I enjoy working across the full stack, from designing backend architectures and 
 ## Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonor-p&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonor-p&theme=radical&hide_border=true&cache_buster=1" alt="GitHub Streak" />
 </div>
 
 <div align="center">
